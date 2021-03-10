@@ -1,0 +1,236 @@
+TEST RUN #1
+Hello! This is a seating reservation program for our airline's one airplane. We have 10 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 9 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 8 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 7 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 6 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 5 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 4 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 3 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 2 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 1 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+
+
+
+
+TEST RUN #2
+Hello! This is a seating reservation program for our airline's one airplane. We have 10 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 9 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 8 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 7 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 6 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 5 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 4 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 3 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 2 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 1 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+
+
+
+TEST RUN #3
+Hello! This is a seating reservation program for our airline's one airplane. We have 10 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 9 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 8 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 7 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 6 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 5 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+We are sorry, there are no more economy seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+1
+Hello! This is a seating reservation program for our airline's one airplane. We have 4 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+2
+We are sorry, there are no more economy seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+2
+Next flight leaves in 3 hours.
+Hello! This is a seating reservation program for our airline's one airplane. We have 4 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 3 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 2 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 1 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+
+
+
+
+TEST RUN #4
+Hello! This is a seating reservation program for our airline's one airplane. We have 10 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 9 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 8 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 7 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 6 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+Reservation succesful, welcome aboard!
+Hello! This is a seating reservation program for our airline's one airplane. We have 5 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+We are sorry, there are no more 1st class seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+1
+Hello! This is a seating reservation program for our airline's one airplane. We have 4 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+We are sorry, there are no more 1st class seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+1
+Hello! This is a seating reservation program for our airline's one airplane. We have 3 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+We are sorry, there are no more 1st class seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+1
+Hello! This is a seating reservation program for our airline's one airplane. We have 2 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+We are sorry, there are no more 1st class seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+1
+Hello! This is a seating reservation program for our airline's one airplane. We have 1 seats left for reservation.
+Enter [1] if you would like to reserve a 1st class seat
+Enter [2] if you would like to reserve an economy seat
+1
+We are sorry, there are no more 1st class seats available. Would you like to get reserve a seat in the other section?
+ [1] for yes | [2] for no
+1
+Reservation succesful, welcome aboard!

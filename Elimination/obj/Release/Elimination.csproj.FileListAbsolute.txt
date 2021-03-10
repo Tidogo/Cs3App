@@ -1,0 +1,7 @@
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\bin\Release\Elimination.exe.config
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\bin\Release\Elimination.exe
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\bin\Release\Elimination.pdb
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\obj\Release\Elimination.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\obj\Release\Elimination.exe
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\obj\Release\Elimination.pdb
+C:\Users\jedik\source\repos\Cs3Apps\Elimination\obj\Release\Elimination.csprojAssemblyReference.cache

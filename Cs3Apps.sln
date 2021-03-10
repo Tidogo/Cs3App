@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elimination", "Elimination\Elimination.csproj", "{FD789131-BB86-4AFB-ADD7-50DFE9B6CF36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{950B2BD0-CE7A-488C-9F0E-89EFFE4C23DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline", "Airline\Airline.csproj", "{AA75AF0A-DFC0-40EC-90AC-525EBCCEED56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD789131-BB86-4AFB-ADD7-50DFE9B6CF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD789131-BB86-4AFB-ADD7-50DFE9B6CF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD789131-BB86-4AFB-ADD7-50DFE9B6CF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD789131-BB86-4AFB-ADD7-50DFE9B6CF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950B2BD0-CE7A-488C-9F0E-89EFFE4C23DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950B2BD0-CE7A-488C-9F0E-89EFFE4C23DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950B2BD0-CE7A-488C-9F0E-89EFFE4C23DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950B2BD0-CE7A-488C-9F0E-89EFFE4C23DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA75AF0A-DFC0-40EC-90AC-525EBCCEED56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA75AF0A-DFC0-40EC-90AC-525EBCCEED56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA75AF0A-DFC0-40EC-90AC-525EBCCEED56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA75AF0A-DFC0-40EC-90AC-525EBCCEED56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A172D01F-46F0-4795-B6D0-2A9B825A2C61}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\jedik\source\repos\Cs3Apps\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\jedik\source\repos\Cs3Apps\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\jedik\source\repos\Cs3Apps\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\jedik\source\repos\Cs3Apps\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\jedik\source\repos\Cs3Apps\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\jedik\source\repos\Cs3Apps\TicTacToe\obj\Release\TicTacToe.pdb

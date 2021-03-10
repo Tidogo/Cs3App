@@ -1,0 +1,42 @@
+TEST RUN #1
+Greetings! This program will take 5 integers between 10-100 (inclusive) and only display those integers that are not duplicates
+Please enter integer #1 [10-100]: 10
+10
+Please enter integer #2 [10-100]: 20
+10 20
+Please enter integer #3 [10-100]: 10
+10 20
+Please enter integer #4 [10-100]: 30
+10 20 30
+Please enter integer #5 [10-100]: 50
+10 20 30 50
+
+
+
+TEST RUN #2
+Greetings! This program will take 5 integers between 10-100 (inclusive) and only display those integers that are not duplicates
+Please enter integer #1 [10-100]: 0
+0 is not between 10 and 100 inclusive. Please enter a valid number. Program  will ignore your input and continue.
+Please enter integer #2 [10-100]: 10
+10
+Please enter integer #3 [10-100]: 10
+10
+Please enter integer #4 [10-100]: 10
+10
+Please enter integer #5 [10-100]: 10
+10
+
+
+
+TEST RUN #3
+Greetings! This program will take 5 integers between 10-100 (inclusive) and only display those integers that are not duplicates
+Please enter integer #1 [10-100]: 35
+35
+Please enter integer #2 [10-100]: 53
+35 53
+Please enter integer #3 [10-100]: 45
+35 53 45
+Please enter integer #4 [10-100]: 54
+35 53 45 54
+Please enter integer #5 [10-100]: 97
+35 53 45 54 97
